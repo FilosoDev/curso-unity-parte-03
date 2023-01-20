@@ -2469,7 +2469,7 @@ GameObject:
   - component: {fileID: 455660635}
   - component: {fileID: 455660634}
   m_Layer: 5
-  m_Name: Text (1)
+  m_Name: TextoZumbisMortos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2491,7 +2491,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -115.799866, y: -29}
+  m_AnchoredPosition: {x: -124, y: -64}
   m_SizeDelta: {x: 115.8, y: 58}
   m_Pivot: {x: 0.00000028312206, y: 0.49999994}
 --- !u!114 &455660634
@@ -6960,6 +6960,7 @@ MonoBehaviour:
   PainelDeGameOver: {fileID: 1518546017}
   TextoTempoDeSobrevivencia: {fileID: 1586845855}
   TextoPontuacaoMaxima: {fileID: 1985104275}
+  TextoQuantidadeDeZumbisMortos: {fileID: 455660634}
 --- !u!1001 &1327135882
 Prefab:
   m_ObjectHideFlags: 0

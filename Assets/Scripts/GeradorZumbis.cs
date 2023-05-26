@@ -74,7 +74,7 @@ public class GeradorZumbis : MonoBehaviour {
         ControlaInimigo zumbi = Instantiate(Zumbi, posicaoDeCriacao, transform.rotation)
             .GetComponent<ControlaInimigo>();
         zumbi.meuGerador = this;
-        quantidadeMaximaDeZumbisVivos++;
+        quantidadeDeZumbisVivos++;
     }
 
     Vector3 AleatorizarPosicao ()

@@ -344,6 +344,7 @@
 "Assets/Scripts/ControlaArma.cs"
 "Assets/Scripts/ControlaAudio.cs"
 "Assets/Scripts/ControlaCamera.cs"
+"Assets/Scripts/ControlaChefe.cs"
 "Assets/Scripts/ControlaInimigo.cs"
 "Assets/Scripts/ControlaInterface.cs"
 "Assets/Scripts/ControlaJogador.cs"

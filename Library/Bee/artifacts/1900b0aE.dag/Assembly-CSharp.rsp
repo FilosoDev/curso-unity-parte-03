@@ -348,6 +348,7 @@
 "Assets/Scripts/ControlaInimigo.cs"
 "Assets/Scripts/ControlaInterface.cs"
 "Assets/Scripts/ControlaJogador.cs"
+"Assets/Scripts/GeradorChefe.cs"
 "Assets/Scripts/GeradorZumbis.cs"
 "Assets/Scripts/ICuravel.cs"
 "Assets/Scripts/IMatavel.cs"
